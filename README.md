@@ -1,1 +1,1 @@
-# Binomial-tree-model
+# Binomial-model
